@@ -81,6 +81,27 @@ The Hyperbolic Karma Model has been validated through computational simulations 
 
 This model is part of the *BuriedBrains* project and is released under the MIT License. See the [LICENSE.md](LICENSE.md) file for more information.
 
+## How to Cite
+
+If you use this work or the **Hyperbolic Karma Model** in your research, please cite the following paper:
+
+```
+Silva, I. S. da. (2025). Hyperbolic Modeling of Reputation: Karma as a Poincaré Disk Fiber Bundle. Zenodo. https://doi.org/10.5281/zenodo.15838990
+```
+
+### BibTeX
+
+```bibtex
+@misc{silva2025hyperbolic,
+  author       = {Silva, Ismael S. da},
+  title        = {Hyperbolic Modeling of Reputation: Karma as a Poincaré Disk Fiber Bundle},
+  publisher    = {Zenodo},
+  year         = {2025},
+  doi          = {10.5281/zenodo.15838990},
+  url          = {https://doi.org/10.5281/zenodo.15838990}
+}
+```
+
 ---
 
 ## 👤 Author
