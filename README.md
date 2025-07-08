@@ -2,7 +2,7 @@
 
 The **Hyperbolic Karma Model** is a novel reputation system designed to simulate and analyze the evolution of social behavior in multi-agent environments. Inspired by hyperbolic geometry and fiber bundle theory, the model captures moral nuance, contextual variability, and vulnerability dynamics that are often overlooked by traditional scalar reputation systems.
 
-This model is a central contribution of the **BuriedBrains** project and is detailed in the upcoming paper:
+This model is a central contribution of the project and is detailed in the upcoming paper:
 
 > **"Hyperbolic Modeling of Reputation: Karma as a Poincaré Disk Fiber Bundle"**  
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15838990.svg)](https://doi.org/10.5281/zenodo.15838990)
