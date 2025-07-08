@@ -1,4 +1,4 @@
-# The Hyperbolic Karma Model
+# The Hyperbolic Karma Model for MARL
 
 The **Hyperbolic Karma Model** is a novel reputation system designed to simulate and analyze the evolution of social behavior in multi-agent environments. Inspired by hyperbolic geometry and fiber bundle theory, the model captures moral nuance, contextual variability, and vulnerability dynamics that are often overlooked by traditional scalar reputation systems.
 
